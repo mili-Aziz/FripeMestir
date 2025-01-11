@@ -1,0 +1,25 @@
+/* Hero Section */
+.hero {
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+/* Testimonial Cards */
+.testimonial {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial p {
+    font-style: italic;
+}
+
+.testimonial footer {
+    text-align: right;
+    font-weight: bold;
+}
